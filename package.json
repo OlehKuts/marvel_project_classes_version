@@ -2,7 +2,7 @@
   "name": "marvel_project",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://OlehKuts.github.io./marvel_project_classes_version",
+  "homepage": "https://OlehKuts.github.io./marvel_project_classes_version",
   "dependencies": {
     "@testing-library/dom": "^10.4.0",
     "@testing-library/jest-dom": "^6.6.3",
