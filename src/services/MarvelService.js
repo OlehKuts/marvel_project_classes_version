@@ -1,5 +1,5 @@
 class MarvelService {
-    _basicUrl = 'http://gateway.marvel.com/v1/public/'
+    _basicUrl = 'https://gateway.marvel.com/v1/public/'
     _apiKey = 'apikey=012e739fbc32d2282572501b8aa33385'
     _baseOffset = Math.floor(Math.random() * 390)
 
